@@ -1,2 +1,2 @@
-# postman-json-visualizer
-A visualizer script for postman REST client.
+# Postman JSON Visualizer
+Copy-paste the script in "Tests".
